@@ -1,0 +1,5 @@
+{
+  "crons": [
+    { "path": "/api/cron/ical-import", "schedule": "0 * * * *" }
+  ]
+}
